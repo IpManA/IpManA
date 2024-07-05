@@ -43,8 +43,6 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaijunShi&theme=radical)
 
-git add README.md
-git commit -m "Update profile README"
-git push origin main
+
 
 
