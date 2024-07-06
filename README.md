@@ -13,13 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile;Feel+free+to+explore+my+projects;Reach+out+for+collaborations!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome👋+to+my+GitHub+Profile;Feel+free+to+explore+my+projects;Reach+out+for+collaborations!)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IpManA)
 ![GitHub followers](https://img.shields.io/github/followers/IpManA?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/IpManA?style=social)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IpManA&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IpManA&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IpManA&theme=radical)
