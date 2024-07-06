@@ -14,16 +14,21 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome👋+to+my+GitHub+Profile;Feel+free+to+explore+my+projects;Reach+out+for+collaborations!)
+
+<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IpManA)
 ![GitHub followers](https://img.shields.io/github/followers/IpManA?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/IpManA?style=social)
 
+<br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IpManA&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IpManA&theme=radical)
 
+<br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
@@ -38,8 +43,8 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel)
 
-
 </div>
+
 
 
 
