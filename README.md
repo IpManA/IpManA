@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome👋+to+my+GitHub+Profile;Feel+free+to+explore+my+projects;Reach+out+for+collaborations!)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IpManA)
@@ -38,7 +39,7 @@ Here are some ideas to get you started:
 ![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel)
 
 
-
+</div>
 
 
 
