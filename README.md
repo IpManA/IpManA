@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 <br>
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -42,6 +43,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel)
+![SQL](https://img.shields.io/badge/-SQL-00000F?style=flat-square&logo=sqlite&logoColor=white)
 
 </div>
 
