@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IpManA)
-![GitHub followers](https://img.shields.io/github/followers/IpManA?style=social)
-![GitHub stars](https://img.shields.io/github/stars/IpManA?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/IpManA?style=social)](https://github.com/IpManA)
+[![GitHub stars](https://img.shields.io/github/stars/IpManA/your-repository?style=social)](https://github.com/IpManA/your-repository)
 
 <br>
 
