@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IpManA&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?IpManA=IpManA&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IpManA&theme=radical)
 
 <br>
