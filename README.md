@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![Profile Views](https://komarev.com/ghpvc/?username=IpManA)
 ![GitHub followers](https://img.shields.io/github/followers/IpManA?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/IpManA/IpManA?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/IpManA/repo.svg)
+![Last Commit](https://img.shields.io/github/last-commit/IpManA/IpManA.svg)
 
 <br>
 
